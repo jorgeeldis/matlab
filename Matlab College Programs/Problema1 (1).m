@@ -1,0 +1,1 @@
+#Juan Carlos Coiduras 8-960-495x=0.3;y=-0.7;a=(1/2)*(exp(-2*x/3))*(tan(y+1));fprintf('La respuesta es: %f', a);
